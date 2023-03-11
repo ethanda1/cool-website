@@ -1,2 +1,2 @@
 # cool-website
-this is ym coo lwebiste!
+My cool website!
